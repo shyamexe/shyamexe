@@ -8,8 +8,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shyamexe&theme=nord_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shyamexe&theme=nord_dark)
 
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shyamexe&theme=nord_dark)
+
 
  📫 How to reach me **shyamjith38@hotmail.com**
 
