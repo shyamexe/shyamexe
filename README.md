@@ -8,11 +8,10 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shyamexe&theme=nord_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shyamexe&theme=nord_dark)
 
-<p align="center">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shyamexe&theme=nord_dark)
 
  📫 How to reach me **shyamjith38@hotmail.com**
 
  <a href="https://dev.to/shyamexe" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shyamexe" height="30" width="40" /></a><a href="https://stackoverflow.com/users/20143836" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20143836" height="30" width="40" /></a>
 <a href="https://instagram.com/shyam.exe" target="blank">
-</p>
