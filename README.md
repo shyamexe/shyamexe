@@ -1,7 +1,7 @@
 ### &gt; Hey There!, I am <b>Shyamjith</b>
 
 ##### 「 I am a flutter developer 」
-[![wakatime](https://wakatime.com/badge/user/56f62632-8343-489b-b91a-abc22c74c4ab.svg)](https://wakatime.com/@56f62632-8343-489b-b91a-abc22c74c4ab)
+![wakatime](https://wakatime.com/badge/user/56f62632-8343-489b-b91a-abc22c74c4ab.svg)](https://wakatime.com/@56f62632-8343-489b-b91a-abc22c74c4ab)
 
 ###### 🌱 I'm currently learning
 
