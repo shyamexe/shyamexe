@@ -10,7 +10,7 @@
 
 <div style="text-align: center;">
 
-![giphy](https://user-images.githubusercontent.com/93277108/232736134-5e91af54-55dc-4f8b-8dc8-c37db194434b.gif=100x100)
+![giphy](https://user-images.githubusercontent.com/93277108/232736134-5e91af54-55dc-4f8b-8dc8-c37db194434b.gif =100x100)
 
 </div>
 
