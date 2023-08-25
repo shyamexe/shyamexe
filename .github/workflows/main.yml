@@ -4,14 +4,16 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-  steps:
-  - name: Checkout code
-    uses: actions/checkout@v3
-  - name: Run the action
-    uses: tonalmathew/readme-typing@main
-    env:
-      GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-    with:
-      input-text: |
-        Hey There!, I am Shyamjith
-        I am a flutter developer
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+    - name: Run the action
+      uses: ./
+      env:
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      with:
+        INPUT_TEXT: |
+          Hey There!, I am Shyamjith
+          I am a flutter developer
+        COLOR: '#06d6a0'
+        TEXT_ALIGN: 'center'
