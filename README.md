@@ -2,7 +2,7 @@
 <!-- START:readme-typing --> 
 <!-- END:readme-typing -->
 
-### 「 I am a flutter developer 」
+<!--### 「 I am a flutter developer 」-->
 [![wakatime](https://wakatime.com/badge/user/56f62632-8343-489b-b91a-abc22c74c4ab.svg)](https://wakatime.com/@56f62632-8343-489b-b91a-abc22c74c4ab)
 
 ### 🌱 I'm currently learning
