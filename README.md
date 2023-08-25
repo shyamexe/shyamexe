@@ -1,5 +1,6 @@
-# &gt; Hey There!, I am <b>Shyamjith</b>
-
+<!--# &gt; Hey There!, I am <b>Shyamjith</b>-->
+<!-- START:readme-typing --> 
+<!-- END:readme-typing -->
 
 ### 「 I am a flutter developer 」
 [![wakatime](https://wakatime.com/badge/user/56f62632-8343-489b-b91a-abc22c74c4ab.svg)](https://wakatime.com/@56f62632-8343-489b-b91a-abc22c74c4ab)
