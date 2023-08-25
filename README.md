@@ -1,5 +1,6 @@
 <!--# &gt; Hey There!, I am <b>Shyamjith</b>-->
-<!-- START:readme-typing --> 
+<!-- START:readme-typing -->
+<img src="readme-typing.svg" />
 <!-- END:readme-typing -->
 
 <!--### 「 I am a flutter developer 」-->
