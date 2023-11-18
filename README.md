@@ -13,7 +13,7 @@
 <div style="text-align: center;">
 
 </div>
-<IMG src="https://wakatime.com/share/@shyamexe/cd8a63af-647d-4744-a519-d9610e0ef0ce.svg"></IMG>
+<IMG src="https://wakatime.com/share/@shyamexe/6d0852b8-8865-4520-b43b-7df68ad92f4f.svg"></IMG>
 
 <div style="text-align: center;">
 
