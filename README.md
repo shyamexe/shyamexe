@@ -15,12 +15,15 @@
 </div>
 <IMG src="https://wakatime.com/share/@shyamexe/15bd947c-85a4-4372-af02-5c25d8e2ab6d.svg"></IMG>
 
+ <!--
 <div style="text-align: center;">
 
 ![shyamexe](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shyamexe&theme=nord_dark)
 
 ![shyamexe](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shyamexe&theme=nord_dark) ![shyamexe](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shyamexe&theme=nord_dark)
 </div>
+
+-->
 
 <div style="text-align: center;">
 
