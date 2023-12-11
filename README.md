@@ -25,9 +25,13 @@
 
 -->
 
+<IMG src="https://wakatime.com/share/@shyamexe/edf6e90c-9f13-4ae1-a237-a1ed271c8290.svg"></IMG>
+
 <div style="text-align: center;">
 
 ![Preview](https://spotify-github-profile.vercel.app/api/view.svg?uid=31fdq5242sdeissdr57zud67tu4e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=4eabb1&bar_color_cover=false)
+
+
 
  📫 How to reach me **shyamjith38@hotmail.com**
 
@@ -35,6 +39,5 @@
 <a href="https://instagram.com/shyam.exe" target="blank">
 
 </div>
-
 
 
