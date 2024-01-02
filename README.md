@@ -1,7 +1,7 @@
 <div align="center">
 <!--# &gt; Hey There!, I am <b>Shyamjith</b>-->
 <!-- START:readme-typing -->
-<img width="500px" src="readme-typing.svg" />
+<img src="readme-typing.svg" />
 <!-- END:readme-typing -->
 
 <!--### 「 I am a flutter developer 」-->
