@@ -1,6 +1,7 @@
+<div align="center">
 <!--# &gt; Hey There!, I am <b>Shyamjith</b>-->
 <!-- START:readme-typing -->
-<img src="readme-typing.svg" />
+<img width="500" src="readme-typing.svg" />
 <!-- END:readme-typing -->
 
 <!--### 「 I am a flutter developer 」-->
@@ -9,11 +10,12 @@
 ### 🌱 I'm currently learning
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-
-<div style="text-align: center;">
-
-</div>
+</div >
+<div align="center">
 <IMG src="https://wakatime.com/share/@shyamexe/15bd947c-85a4-4372-af02-5c25d8e2ab6d.svg"></IMG>
+<IMG src="https://wakatime.com/share/@shyamexe/edf6e90c-9f13-4ae1-a237-a1ed271c8290.svg"></IMG>
+</div>
+
 
  <!--
 <div style="text-align: center;">
@@ -25,9 +27,9 @@
 
 -->
 
-<IMG src="https://wakatime.com/share/@shyamexe/edf6e90c-9f13-4ae1-a237-a1ed271c8290.svg"></IMG>
 
-<div style="text-align: center;">
+
+<div align="center">
 
 ![Preview](https://spotify-github-profile.vercel.app/api/view.svg?uid=31fdq5242sdeissdr57zud67tu4e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=4eabb1&bar_color_cover=false)
 
