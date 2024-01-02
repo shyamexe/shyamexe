@@ -1,7 +1,7 @@
 <div align="center">
 <!--# &gt; Hey There!, I am <b>Shyamjith</b>-->
 <!-- START:readme-typing -->
-<img width="500" src="readme-typing.svg" />
+<img width="500px" src="readme-typing.svg" />
 <!-- END:readme-typing -->
 
 <!--### 「 I am a flutter developer 」-->
@@ -12,7 +12,7 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 </div >
 <div align="center">
-<IMG src="https://wakatime.com/share/@shyamexe/15bd947c-85a4-4372-af02-5c25d8e2ab6d.svg"></IMG>
+<IMG width="600px" src="https://wakatime.com/share/@shyamexe/15bd947c-85a4-4372-af02-5c25d8e2ab6d.svg"></IMG>
 <IMG src="https://wakatime.com/share/@shyamexe/edf6e90c-9f13-4ae1-a237-a1ed271c8290.svg"></IMG>
 </div>
 
