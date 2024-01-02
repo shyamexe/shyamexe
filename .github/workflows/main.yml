@@ -16,3 +16,4 @@ jobs:
           Hey There!, I am Shyamjith
           I am a Software developer
         COLOR: '#06d6a0'
+        TEXT_ALIGN: "center"
