@@ -14,6 +14,6 @@ jobs:
       with:
         INPUT_TEXT: |
           Hey There!, I am Shyamjith
-          I am a Software developer
+          I am a Software Engineering
         COLOR: '#06d6a0'
         TEXT_ALIGN: "center"
