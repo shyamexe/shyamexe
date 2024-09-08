@@ -70,7 +70,7 @@ I'm a **Software Engineer** specializing in **Flutter development** from India ð
 
 - Advanced animations and custom transitions in Flutter
 - **Next.js** for building server-rendered React applications
-- Exploring Go Router for efficient navigation handling
+<!--- Exploring Go Router for efficient navigation handling -->
  
 
 
