@@ -1,6 +1,7 @@
  # Hi, I'm Shyamjith 👋
+<!-- 
 [![wakatime](https://wakatime.com/badge/user/56f62632-8343-489b-b91a-abc22c74c4ab.svg)](https://wakatime.com/@56f62632-8343-489b-b91a-abc22c74c4ab)
-
+-->
 I'm a **Software Engineer** specializing in **Flutter development** from India 🇮🇳. I love building beautiful, responsive, and performant mobile and web applications using Flutter.
 
 ###
@@ -88,13 +89,13 @@ I'm a **Software Engineer** specializing in **Flutter development** from India �
 
 <!--### 「 I am a flutter developer 」-->
 
- 
+ <!-- ### 
 </div >
 <div align="left">
 <IMG width="600px" src="https://wakatime.com/share/@shyamexe/15bd947c-85a4-4372-af02-5c25d8e2ab6d.svg"></IMG>
 <IMG src="https://wakatime.com/share/@shyamexe/edf6e90c-9f13-4ae1-a237-a1ed271c8290.svg"></IMG>
 </div>
-
+-->
 
  
 
