@@ -88,19 +88,22 @@ I'm a **Software Engineer** specializing in **Flutter development** from India �
 <!-- END:readme-typing -->
 
 <!--### 「 I am a flutter developer 」-->
-
- <!-- ### 
+ 
 </div >
 <div align="left">
-<IMG width="600px" src="https://wakatime.com/share/@shyamexe/15bd947c-85a4-4372-af02-5c25d8e2ab6d.svg"></IMG>
+<!-- <IMG width="600px" src="https://wakatime.com/share/@shyamexe/15bd947c-85a4-4372-af02-5c25d8e2ab6d.svg"></IMG> -->
 <IMG src="https://wakatime.com/share/@shyamexe/edf6e90c-9f13-4ae1-a237-a1ed271c8290.svg"></IMG>
+
 </div>
--->
+   
+<!-- <div align="center">
+<IMG width="600px" src="https://wakatime.com/share/@shyamexe/f615eb0c-5225-4707-b260-439eca7d3b9a.png" target="https://wakatime.com/"></IMG> 
 
- 
+</div>
 
+<div align="left"> -->
 
-<div align="left">
+<!-- <a href="https://wakatime.com"><img src="https://wakatime.coxm/share/@shyamexe/1b8ced25-b5ef-4c18-960b-a95f7755a737.png" /></a> -->
  
 
  📫 How to reach me **shyamjith38@hotmail.com**
