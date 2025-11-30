@@ -24,7 +24,7 @@ I'm a **Software Engineer** specializing in **Flutter development** from India ð
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="30" alt="nextjs logo"  />
+  <img src="https://avatars.githubusercontent.com/u/194854876?v=4" height="30" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/swift/F05138" height="30" alt="swift logo"  />
   <img width="12" />
