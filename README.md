@@ -28,10 +28,10 @@ I'm a **Software Engineer** specializing in **Flutter development** from India ð
   <img width="12" />
   <img src="https://cdn.simpleicons.org/swift/F05138" height="30" alt="swift logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="photoshop logo"  />
+  <!-- <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="illustrator logo"  />
-  <img width="12" />
+  <img width="12" /> -->
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo"  />
 </div>
 
