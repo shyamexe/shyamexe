@@ -1,12 +1,17 @@
 <div align="center">
 
-# Shyamjith
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B0B1A,50:6D5EF5,100:22D3EE&height=170&section=header&text=Shyamjith&fontColor=FFFFFF&fontSize=68&fontAlignY=38&desc=Senior%20Software%20Engineer%20%C2%B7%20Team%20Lead&descSize=17&descAlignY=60&animation=fadeIn" width="100%">
 
-<sub>SENIOR SOFTWARE ENGINEER &nbsp;·&nbsp; TEAM LEAD</sub>
-
-<sub>Architecture → Deployment &nbsp;·&nbsp; Kerala, India</sub>
+<sub>`architecture → deployment`&nbsp;&nbsp;·&nbsp;&nbsp;`mobile · web · backend · cloud`&nbsp;&nbsp;·&nbsp;&nbsp;`Kerala, India`</sub>
 
 <br>
+
+<img src="https://img.shields.io/badge/5%2B-YEARS-6D5EF5?style=for-the-badge&labelColor=0B0B1A">
+<img src="https://img.shields.io/badge/30%2B-SHIPPED-22D3EE?style=for-the-badge&labelColor=0B0B1A">
+<img src="https://img.shields.io/badge/4-PACKAGES-F472B6?style=for-the-badge&labelColor=0B0B1A">
+<img src="https://img.shields.io/badge/3-COMPANIES-A9A4D9?style=for-the-badge&labelColor=0B0B1A">
+
+<br><br>
 
 <a href="https://www.shyamjith.in"><img src="https://img.shields.io/badge/shyamjith.in-141330?style=flat-square&logo=vercel&logoColor=22D3EE"></a> &nbsp;
 <a href="https://www.linkedin.com/in/shyamexe"><img src="https://img.shields.io/badge/linkedin-141330?style=flat-square&logo=linkedin&logoColor=A9A4D9"></a> &nbsp;
@@ -22,11 +27,17 @@
 
 I take products from **architecture to production** — mobile, web, and the backend underneath.
 
-Building healthcare software at **MedicalSuite.ai**, maintaining four packages on pub.dev, and shipping from Kerala, India.
+`🏥` &nbsp; Building healthcare software at **MedicalSuite.ai**
 
-Architecture stops being theoretical when you carry the code for three years.
+`📦` &nbsp; Maintaining **4 packages** on pub.dev
 
-<sub>**Open to remote worldwide.**</sub>
+`⚙️` &nbsp; Flutter, Next.js, NestJS, Python — whatever the problem needs
+
+`🌏` &nbsp; Kerala, India — **open to remote worldwide**
+
+`💬` &nbsp; Ask me about Flutter architecture, Mason bricks, or shipping solo
+
+> Architecture stops being theoretical when you carry the code for three years.
 
 <br clear="right">
 
@@ -158,6 +169,46 @@ Architecture stops being theoretical when you carry the code for three years.
 
 <br><br>
 
+<h3>Currently</h3>
+
+<br>
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+
+**🔭 Building**
+
+<sub>Clinical workflow tooling at MedicalSuite.ai — schema to deployment</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**🌱 Learning**
+
+<sub>LLM integration patterns and AI-assisted product surfaces</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**🤝 Open To**
+
+<sub>Remote roles, freelance builds, and open-source collaboration</sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0B0B1A,50:6D5EF5,100:0B0B1A&height=2&section=header" width="70%">
+
+<br><br>
+
 <h3>Build With</h3>
 
 <sub><i>The tools I reach for, the systems I build.</i></sub>
@@ -181,6 +232,15 @@ Architecture stops being theoretical when you carry the code for three years.
 <br>
 
 <img src="https://wakatime.com/share/@shyamexe/edf6e90c-9f13-4ae1-a237-a1ed271c8290.svg" width="600" alt="WakaTime">
+
+<br><br>
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=shyamexe&show_icons=true&hide_border=true&count_private=true&bg_color=0B0B1A&title_color=6D5EF5&text_color=A9A4D9&icon_color=22D3EE">
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamexe&layout=compact&hide_border=true&langs_count=6&bg_color=0B0B1A&title_color=6D5EF5&text_color=A9A4D9">
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=shyamexe&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8">
 
 <br><br>
 
