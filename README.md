@@ -1,115 +1,207 @@
- # Hi, I'm Shyamjith 👋
-<!-- 
-[![wakatime](https://wakatime.com/badge/user/56f62632-8343-489b-b91a-abc22c74c4ab.svg)](https://wakatime.com/@56f62632-8343-489b-b91a-abc22c74c4ab)
--->
-I'm a **Software Engineer** specializing in **Flutter development** from India 🇮🇳. I love building beautiful, responsive, and performant mobile and web applications using Flutter.
+<div align="center">
 
-###
+# Shyamjith
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjB2MzhpNTg2dTAwZGx2am9hemVxOWo4ZzFxbWJjdjJzcnF1NTg4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp"  />
+<sub>SENIOR SOFTWARE ENGINEER &nbsp;·&nbsp; TEAM LEAD</sub>
 
-###
-###
+<sub>Architecture → Deployment &nbsp;·&nbsp; Kerala, India</sub>
+
+<br>
+
+<a href="https://www.shyamjith.in"><img src="https://img.shields.io/badge/shyamjith.in-141330?style=flat-square&logo=vercel&logoColor=22D3EE"></a> &nbsp;
+<a href="https://www.linkedin.com/in/shyamexe"><img src="https://img.shields.io/badge/linkedin-141330?style=flat-square&logo=linkedin&logoColor=A9A4D9"></a> &nbsp;
+<a href="https://twitter.com/VpJith"><img src="https://img.shields.io/badge/twitter-141330?style=flat-square&logo=x&logoColor=A9A4D9"></a> &nbsp;
+<a href="https://dev.to/shyamexe"><img src="https://img.shields.io/badge/dev.to-141330?style=flat-square&logo=devdotto&logoColor=A9A4D9"></a> &nbsp;
+<a href="mailto:shyamjith38@hotmail.com"><img src="https://img.shields.io/badge/email-141330?style=flat-square&logo=maildotru&logoColor=A9A4D9"></a>
+
+<br><br>
+
+</div>
+
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding">
+
+I take products from **architecture to production** — mobile, web, and the backend underneath.
+
+Building healthcare software at **MedicalSuite.ai**, maintaining four packages on pub.dev, and shipping from Kerala, India.
+
+Architecture stops being theoretical when you carry the code for three years.
+
+<sub>**Open to remote worldwide.**</sub>
+
+<br clear="right">
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/dart/0175C2" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/194854876?v=4" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/swift/F05138" height="30" alt="swift logo"  />
-  <img width="12" />
-  <!-- <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="illustrator logo"  />
-  <img width="12" /> -->
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo"  />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0B0B1A,50:6D5EF5,100:0B0B1A&height=2&section=header" width="70%">
+
+<br><br>
+
+<h3>Open Source</h3>
+
+<sub><i>Four packages — built for the Flutter ecosystem</i></sub>
+
+<br><br>
+
+<table width="90%">
+<tr>
+<td width="50%" valign="top">
+
+<sub>`01`</sub> &nbsp; **[Universal Breakpoints](https://pub.dev/packages/universal_breakpoints)**
+
+<sub>Responsive design system across all Flutter platforms — mobile, tablet, desktop.</sub>
+
+<img src="https://img.shields.io/pub/v/universal_breakpoints?style=flat-square&color=6D5EF5&labelColor=0B0B1A&label=">
+
+</td>
+<td width="50%" valign="top">
+
+<sub>`02`</sub> &nbsp; **[Scrollable Tab View](https://pub.dev/packages/scrollable_tab_view)**
+
+<sub>Vertical tab layout widget with zero controller boilerplate required.</sub>
+
+<img src="https://img.shields.io/pub/v/scrollable_tab_view?style=flat-square&color=6D5EF5&labelColor=0B0B1A&label=">
+
+</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td valign="top">
+
+<sub>`03`</sub> &nbsp; **[Material Pagination](https://pub.dev/packages/material_pagination)**
+
+<sub>Fully customizable, drop-in pagination widgets for any Flutter app.</sub>
+
+<img src="https://img.shields.io/pub/v/material_pagination?style=flat-square&color=6D5EF5&labelColor=0B0B1A&label=">
+
+</td>
+<td valign="top">
+
+<sub>`04`</sub> &nbsp; **[Bricks CLI](https://github.com/shyamexe/bricks-cli)**
+
+<sub>Opinionated Flutter scaffolding tool powered by the Mason bricks ecosystem.</sub>
+
+<img src="https://img.shields.io/badge/cli_tool-22D3EE?style=flat-square&labelColor=0B0B1A&label=">
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0B0B1A,50:6D5EF5,100:0B0B1A&height=2&section=header" width="70%">
+
+<br><br>
+
+<h3>Work</h3>
+
+<br>
+
 </div>
 
-###
+<table width="100%">
+<tr>
+<td width="4%" align="center" valign="top"><sub>01</sub></td>
+<td width="26%" valign="top">
 
- 
+**MedicalSuite.ai**<br>
+<sub>Senior Engineer · Dec 2025 — Present</sub>
+
+</td>
+<td valign="top">
+
+<sub>Healthcare software built for real clinical workflows — architecture, delivery, and the systems underneath.</sub><br>
+<sub>`Flutter` `HealthTech` `CI/CD` `Firebase`</sub>
+
+</td>
+</tr>
+<tr><td colspan="3"><br></td></tr>
+<tr>
+<td align="center" valign="top"><sub>02</sub></td>
+<td valign="top">
+
+**Nexteons LLP**<br>
+<sub>Senior Developer · Nov 2023 — Dec 2025</sub>
+
+</td>
+<td valign="top">
+
+<sub>Multi-platform ERP applications for real estate and restaurant verticals on shared codebases with scalable state patterns.</sub><br>
+<sub>`Flutter` `GetX` `Architecture` `ERP`</sub>
+
+</td>
+</tr>
+<tr><td colspan="3"><br></td></tr>
+<tr>
+<td align="center" valign="top"><sub>03</sub></td>
+<td valign="top">
+
+**TATOS Technologies**<br>
+<sub>Developer · May 2022 — Nov 2023</sub>
+
+</td>
+<td valign="top">
+
+<sub>E-commerce platforms, real-time chat systems, and fully integrated payment gateway flows.</sub><br>
+<sub>`Flutter` `E-commerce` `Real-time` `Payments`</sub>
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-  <a href="https://dev.to/shyamexe" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shyamexe" height="30" width="40" /></a><a href="https://stackoverflow.com/users/20143836" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20143836" height="30" width="40" /></a>
-<a href="https://instagram.com/shyam.exe" target="blank">
-</div>
- 
-###
 
-<br clear="both"> 
+<br>
 
-### 💻 What I Do
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0B0B1A,50:6D5EF5,100:0B0B1A&height=2&section=header" width="70%">
 
-- **Mobile and Web Development**: Creating cross-platform applications with **Flutter**.
-- **Backend Integration**: Seamlessly integrating APIs and services.
-- **UI/UX**: Building clean, intuitive, and responsive user interfaces.
-- **Open Source**: Passionate about contributing to the open-source community and sharing knowledge.
+<br><br>
 
-### 🛠️ Tech Stack
+<h3>Build With</h3>
 
-- **Languages**: Dart, JavaScript, HTML, CSS
-- **Frameworks & Libraries**: Flutter, Next.js, NestJS
-- **Tools & Platforms**: Firebase, Git, GitHub Actions
-- **Databases**: Firestore, SQL
+<sub><i>The tools I reach for, the systems I build.</i></sub>
 
-<!-- ### 🚀 Projects
+<br><br>
 
-- **E-commerce Web App**: Developed a scalable e-commerce web platform with rich search functionality and smooth UI/UX.
-- **Mobile App**: Created a cross-platform mobile app for tracking orders with a custom timeline widget.
-- **Flutter Package**: Working on a customizable pagination package for Flutter to improve user experience on large lists.
--->
-### 🌱 I’m Currently Learning
+<img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,typescript,python,nestjs,nodejs&theme=dark&perline=8">
 
-- Advanced animations and custom transitions in Flutter
-- **Next.js** for building server-rendered React applications
-<!--- Exploring Go Router for efficient navigation handling -->
- 
+<br>
 
+<img src="https://skillicons.dev/icons?i=firebase,aws,docker,githubactions,tailwind,postgres,git,figma&theme=dark&perline=8">
 
-  
+<br><br>
 
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0B0B1A,50:6D5EF5,100:0B0B1A&height=2&section=header" width="70%">
 
+<br><br>
 
+<h3>Hours</h3>
 
+<br>
 
-<div align="left">
-<!--# &gt; Hey There!, I am <b>Shyamjith</b>-->
-<!-- START:readme-typing -->
-<!-- <img src="readme-typing.svg" /> -->
-<!-- END:readme-typing -->
+<img src="https://wakatime.com/share/@shyamexe/edf6e90c-9f13-4ae1-a237-a1ed271c8290.svg" width="600" alt="WakaTime">
 
-<!--### 「 I am a flutter developer 」-->
- 
-</div >
-<div align="left">
-<!-- <IMG width="600px" src="https://wakatime.com/share/@shyamexe/15bd947c-85a4-4372-af02-5c25d8e2ab6d.svg"></IMG> -->
-<IMG src="https://wakatime.com/share/@shyamexe/edf6e90c-9f13-4ae1-a237-a1ed271c8290.svg"></IMG>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0B0B1A,50:6D5EF5,100:0B0B1A&height=2&section=header" width="70%">
+
+<br><br>
+
+<br><br>
+
+**[View my work](https://www.shyamjith.in/projects)** &nbsp;·&nbsp; **[Download CV](https://www.shyamjith.in/shyamjith-swe.pdf)** &nbsp;·&nbsp; **[Work together](mailto:shyamjith38@hotmail.com)**
+
+<br>
+
+<sub>B.Tech in Computer Science · Royal College of Engineering & Technology · 2016–2020</sub>
+
+<br>
+
+<i>Open to the right problems. Tell me what you're building.</i>
+
+<br>
+
+<sub>Kerala, India</sub>
 
 </div>
-   
-<!-- <div align="center">
-<IMG width="600px" src="https://wakatime.com/share/@shyamexe/f615eb0c-5225-4707-b260-439eca7d3b9a.png" target="https://wakatime.com/"></IMG> 
-
-</div>
-
-<div align="left"> -->
-
-<!-- <a href="https://wakatime.com"><img src="https://wakatime.coxm/share/@shyamexe/1b8ced25-b5ef-4c18-960b-a95f7755a737.png" /></a> -->
- 
-
- 📫 How to reach me **shyamjith38@hotmail.com**
-
-
-
-</div>
-
-
