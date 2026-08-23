@@ -127,7 +127,7 @@ I take products from **architecture to production** — mobile, web, and the bac
 <td valign="top">
 
 <sub>Healthcare software built for real clinical workflows — architecture, delivery, and the systems underneath.</sub><br>
-<sub>`NextJs` `NestJs` `Postgres` `HealthTech` `CI/CD` `AWS`</sub>
+<sub>`NextJS` `NestJs` `Flutter` `AI` `HealthTech` `Docker` `CI/CD` `AWS`</sub>
 
 </td>
 </tr>
@@ -239,12 +239,16 @@ I take products from **architecture to production** — mobile, web, and the bac
 
 <br><br>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=shyamexe&show_icons=true&hide_border=true&count_private=true&bg_color=0B0B1A&title_color=6D5EF5&text_color=A9A4D9&icon_color=22D3EE">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamexe&layout=compact&hide_border=true&langs_count=6&bg_color=0B0B1A&title_color=6D5EF5&text_color=A9A4D9">
+<img src="https://img.shields.io/github/followers/shyamexe?style=for-the-badge&logo=github&color=6D5EF5&labelColor=0B0B1A&label=FOLLOWERS">
+<img src="https://img.shields.io/github/stars/shyamexe?style=for-the-badge&logo=github&color=22D3EE&labelColor=0B0B1A&label=TOTAL%20STARS">
+<img src="https://img.shields.io/badge/REPOS-37%2B-F472B6?style=for-the-badge&logo=github&labelColor=0B0B1A">
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=shyamexe&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8">
+<img src="https://img.shields.io/github/stars/shyamexe/scrollable_tab_view?style=flat-square&logo=github&color=6D5EF5&labelColor=0B0B1A&label=scrollable_tab_view">
+<img src="https://img.shields.io/github/stars/shyamexe/universal_breakpoints?style=flat-square&logo=github&color=6D5EF5&labelColor=0B0B1A&label=universal_breakpoints">
+<img src="https://img.shields.io/github/stars/shyamexe/material_pagination?style=flat-square&logo=github&color=6D5EF5&labelColor=0B0B1A&label=material_pagination">
+<img src="https://img.shields.io/github/stars/shyamexe/bricks-cli?style=flat-square&logo=github&color=6D5EF5&labelColor=0B0B1A&label=bricks-cli">
 
 <br><br>
 
