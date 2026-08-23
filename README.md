@@ -127,7 +127,7 @@ I take products from **architecture to production** — mobile, web, and the bac
 <td valign="top">
 
 <sub>Healthcare software built for real clinical workflows — architecture, delivery, and the systems underneath.</sub><br>
-<sub>`Flutter` `HealthTech` `CI/CD` `Firebase`</sub>
+<sub>`NextJs` `NestJs` `Postgres` `HealthTech` `CI/CD` `AWS`</sub>
 
 </td>
 </tr>
