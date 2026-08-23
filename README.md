@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=6D5EF5&height=150&section=header&text=Shyamjith&fontColor=6D5EF5&fontSize=70&fontAlignY=42&desc=Senior%20Software%20Engineer%20%C2%B7%20Team%20Lead&descSize=17&descAlignY=64&animation=fadeIn" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="shyamexe's GitHub profile" src="dark_mode.svg" width="100%" />
+</picture>
 
 <sub>`architecture → deployment`&nbsp;&nbsp;·&nbsp;&nbsp;`mobile · web · backend · cloud`&nbsp;&nbsp;·&nbsp;&nbsp;`Kerala, India`</sub>
 
