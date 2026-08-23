@@ -143,7 +143,7 @@ I take products from **architecture to production** — mobile, web, and the bac
 <td valign="top">
 
 <sub>Multi-platform ERP applications for real estate and restaurant verticals on shared codebases with scalable state patterns.</sub><br>
-<sub>`Flutter` `GetX` `Architecture` `ERP`</sub>
+<sub>`Flutter` `Bloc` `Architecture` `ERP`</sub>
 
 </td>
 </tr>
