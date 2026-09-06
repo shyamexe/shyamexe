@@ -21,7 +21,8 @@
 <a href="https://www.linkedin.com/in/shyamexe"><img src="https://img.shields.io/badge/linkedin-141330?style=flat-square&logo=linkedin&logoColor=A9A4D9"></a> &nbsp;
 <a href="https://twitter.com/VpJith"><img src="https://img.shields.io/badge/twitter-141330?style=flat-square&logo=x&logoColor=A9A4D9"></a> &nbsp;
 <a href="https://dev.to/shyamexe"><img src="https://img.shields.io/badge/dev.to-141330?style=flat-square&logo=devdotto&logoColor=A9A4D9"></a> &nbsp;
-<a href="mailto:shyamjith38@hotmail.com"><img src="https://img.shields.io/badge/email-141330?style=flat-square&logo=maildotru&logoColor=A9A4D9"></a>
+<a href="mailto:shyamjith38@hotmail.com"><img src="https://img.shields.io/badge/email-141330?style=flat-square&logo=maildotru&logoColor=A9A4D9"></a> &nbsp;
+<a href="https://buymeacoffee.com/shyamexe"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-141330?style=flat-square&logo=buymeacoffee&logoColor=FFDD00"></a>
 
 <br><br>
 
@@ -127,7 +128,7 @@ I take products from **architecture to production** — mobile, web, and the bac
 <td valign="top">
 
 <sub>Healthcare software built for real clinical workflows — architecture, delivery, and the systems underneath.</sub><br>
-<sub>`NextJS` `NestJs` `Flutter` `AI` `HealthTech` `Docker` `CI/CD` `AWS`</sub>
+<sub>`Flutter` `HealthTech` `CI/CD` `Firebase`</sub>
 
 </td>
 </tr>
@@ -143,7 +144,7 @@ I take products from **architecture to production** — mobile, web, and the bac
 <td valign="top">
 
 <sub>Multi-platform ERP applications for real estate and restaurant verticals on shared codebases with scalable state patterns.</sub><br>
-<sub>`Flutter` `Bloc` `Architecture` `ERP`</sub>
+<sub>`Flutter` `GetX` `Architecture` `ERP`</sub>
 
 </td>
 </tr>
@@ -256,9 +257,29 @@ I take products from **architecture to production** — mobile, web, and the bac
 
 <br><br>
 
+<h3>Now Playing</h3>
+
+<br>
+
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fdq5242sdeissdr57zud67tu4e&cover_image=true&theme=novatorem&show_offline=true&background_color=0b0b1a&interchange=true&profanity=false&hide_remaster=true&bar_color=6D5EF5&bar_color_cover=false" width="380" alt="Spotify now playing">
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0B0B1A,50:6D5EF5,100:0B0B1A&height=2&section=header" width="70%">
+
+<br><br>
+
 <br><br>
 
 **[View my work](https://www.shyamjith.in/projects)** &nbsp;·&nbsp; **[Download CV](https://www.shyamjith.in/shyamjith-swe.pdf)** &nbsp;·&nbsp; **[Work together](mailto:shyamjith38@hotmail.com)**
+
+<br>
+
+<a href="https://buymeacoffee.com/shyamexe"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=0B0B1A"></a>
+
+<sub>If a package saved you an afternoon, this keeps them maintained.</sub>
 
 <br>
 
